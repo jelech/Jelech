@@ -28,9 +28,10 @@
 
 💼 **Skills & Expertise:**
 - **Languages**: Golang, Python
-- **Technologies**: Docker, Kubernetes, TensorFlow
-- **Databases**: PostgreSQL, MongoDB
+- **Technologies**: Docker, Kubernetes, Ray
+- **Databases**: MySQL, MongoDB
 - **Areas**: Data Systems, Game Server Development, AI-Enhanced Engineering
+- Some other less commonly used technologies
 
 ---
 
